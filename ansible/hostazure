@@ -1,0 +1,11 @@
+[jenkins]
+<JENKINS_IP> 
+
+[sonar]
+<SONAR_IP> 
+
+[gitlab]
+<gitlab_ip> 
+
+[nexus]
+<nexus_ip> 
